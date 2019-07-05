@@ -8,9 +8,9 @@ public class Stockroom {
     }
 
 
-    //public void setGoodsCounter(int goodsCounter) {
-    //    this.goodsCounter = goodsCounter;
-    //}
+    public void setGoodsCounter(int goodsCounter) {
+     this.goodsCounter = goodsCounter;
+    }
 
 
 }
